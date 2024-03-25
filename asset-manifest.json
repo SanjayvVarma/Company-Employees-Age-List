@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Company-Employees-Age-List/static/css/main.4867a4e7.css",
+    "main.js": "/Company-Employees-Age-List/static/js/main.3ccbab3c.js",
+    "static/js/453.a2223469.chunk.js": "/Company-Employees-Age-List/static/js/453.a2223469.chunk.js",
+    "index.html": "/Company-Employees-Age-List/index.html",
+    "main.4867a4e7.css.map": "/Company-Employees-Age-List/static/css/main.4867a4e7.css.map",
+    "main.3ccbab3c.js.map": "/Company-Employees-Age-List/static/js/main.3ccbab3c.js.map",
+    "453.a2223469.chunk.js.map": "/Company-Employees-Age-List/static/js/453.a2223469.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4867a4e7.css",
+    "static/js/main.3ccbab3c.js"
+  ]
+}
