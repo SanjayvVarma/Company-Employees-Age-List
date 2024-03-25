@@ -1,0 +1,16 @@
+.rightbox>h2 {
+    margin: 2rem 15rem;
+    font-size: 30px;
+}
+
+#rightboxbtn{
+    margin: 1.8rem 10rem;
+
+}
+
+.rightbox-average{
+    display: flex;
+    justify-content: space-around;
+    margin-left: 2rem;
+    color: rgb(216, 23, 23);
+}

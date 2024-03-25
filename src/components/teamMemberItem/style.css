@@ -1,0 +1,33 @@
+
+
+.teammember {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+    width: 60%;
+    margin-left: 10rem;
+  }
+  
+  .teammember1 {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 5px;
+  }
+  
+  .teammember1 p {
+    margin: 0;
+  }
+  
+  .teammember-btn {
+    background-color: #c00ab9;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+  }
+  
+ .teammember-btn:hover {
+    background-color: #bc6400;
+  }
+
+  

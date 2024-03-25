@@ -1,0 +1,29 @@
+.employeeitem {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+    margin-left: 10rem;
+    width: 70%;
+}
+
+.employeeitem1 {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 5px;
+}
+
+.employeeitem1 p {
+    margin: 0;
+}
+
+.employeeitem-btn {
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+}
+
+.employeeitem-btn:hover {
+    background-color: #3430a1d2;
+}
